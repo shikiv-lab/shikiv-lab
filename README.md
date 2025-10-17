@@ -1,4 +1,4 @@
-#👋 Hi there, I’m abdulmoahemin or [shiki] 
+###👋Hi there, I’m abdulmoahemin or [shiki] 
 
 👩🏻‍💻 Computer Engineer sharing my journey and learnings in tech.
 👩🏻‍🎓 Studied Computer Engineering.
