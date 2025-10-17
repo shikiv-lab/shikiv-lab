@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I’m abdulmohaemin or [shiki]<br><br>👩🏻‍💻 Computer Engineer sharing my journey and learnings in tech.<br>👩🏻‍🎓 Studied Computer Engineering.<br>🎨 Passionate 3D & Graphic Designer.<br>📊 Exploring the world of Data Analytics.<br>💭 Currently learning to become a better Engineer overall!
+# 💫 Hi there, I’m abdulmohaemin or [shiki]
+<br><br>👩🏻‍💻 Computer Engineer sharing my journey and learnings in tech.<br>👩🏻‍🎓 Studied Computer Engineering.<br>🎨 Passionate 3D & Graphic Designer.<br>📊 Exploring the world of Data Analytics.<br>💭 Currently learning to become a better Engineer overall!
 
 
 # 📊 GitHub Stats:
